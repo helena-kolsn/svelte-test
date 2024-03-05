@@ -91,3 +91,4 @@
     .scroll-button .arrow {
         margin-left: 0.50rem;
     }
+    </style>
