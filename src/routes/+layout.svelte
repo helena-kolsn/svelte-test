@@ -1,3 +1,4 @@
+<nav>
 <div class="nav-container">
     <a href="/" class="nav-logo" title="Back to Homepage">Имя Фамилия</a>
      <div class="nav-links">
@@ -9,14 +10,11 @@
   </div>
   </nav>
  
-             <div class="container">
+<div class="container">
      <!--Pages will be injected below-->
- <slot></slot>
+    <slot></slot>
   </div>
- 
-                
- 
- 
+  
      <style>
     
      .container {
